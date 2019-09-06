@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbc16797-b756-4dbd-b7f7-1cbd3a77bb3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/amirxanli/InternetMessageProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/amirxanli/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/amirxanli/MessageProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/amirxanli/MessageRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/amirxanli/SimpleMessageProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/amirxanli/SimpleMessageRenderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/amirxanli/app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/amirxanli/MessageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/app.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/amirxanli/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/amirxanli/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/amirxanli/app.properties" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,11 +36,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jabir.amirxanli\IdeaProjects\project_1\src\main\webapp\resources" />
+      <recent name="C:\Users\jabir.amirxanli\IdeaProjects\project_1\src\main\webapp" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.amirxanli" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\jabir.amirxanli\IdeaProjects\project_1\src\main\webapp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -59,6 +56,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.amirxanli.Main" />
+      <module name="project_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.amirxanli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -69,7 +86,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567666409691</updated>
-      <workItem from="1567666415056" duration="6808000" />
+      <workItem from="1567666415056" duration="7219000" />
+      <workItem from="1567746991235" duration="5547000" />
     </task>
     <servers />
   </component>
@@ -81,7 +99,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
